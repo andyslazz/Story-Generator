@@ -92,3 +92,5 @@ speak_button.pack(side=tk.RIGHT, padx=5, pady=10)
 
 # Run the GUI
 window.mainloop()
+
+print("")
